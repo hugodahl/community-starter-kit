@@ -7,3 +7,24 @@ _Briefly describe your question here. What are you trying to accomplish with Tea
 ## I've already tried
 
 _Help us help you by letting us know what you have already tried in your efforts to accomplish this. If you don't put anything here, we are likely to point you to the docs :wink:_
+
+## Is this issue related to using or interacting with another bot?
+* [ ] Yes
+* [ ] No
+
+## Cycling
+
+Most issues can be resolved with a power cycle - i.e. "Have you tried turning it off and on again?"?
+
+
+## Configuration 
+
+Below, please post your configuration file between the three back-ticks.
+
+```json
+-- START DELETE & PASTE HERE --
+
+
+
+-- STOP DELETE AND PASTE HERE --
+```
