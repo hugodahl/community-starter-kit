@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+* "Welcome, new friend!"
+* "I'm glad you've found our home"
+* "Please contact mods or owners if you run into _ANY_ issue!"
