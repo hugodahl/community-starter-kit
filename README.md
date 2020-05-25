@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A sweet and helpful bot to make new users feel welcome and at thome
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Greets new users
+* Displays server rules
+* Share links to relevant docs.
 
 ## Getting started
 
